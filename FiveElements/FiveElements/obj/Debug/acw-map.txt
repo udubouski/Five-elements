@@ -1,0 +1,8 @@
+FiveElements.Elements, FiveElements;md52f2435df23ac31def56147a979eaf7be.Elements
+FiveElements.Elements, FiveElements, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52f2435df23ac31def56147a979eaf7be.Elements
+FiveElements.Elements;md52f2435df23ac31def56147a979eaf7be.Elements
+fiveelements.Elements;md52f2435df23ac31def56147a979eaf7be.Elements
+FiveElements.MainActivity, FiveElements;md52f2435df23ac31def56147a979eaf7be.MainActivity
+FiveElements.MainActivity, FiveElements, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52f2435df23ac31def56147a979eaf7be.MainActivity
+FiveElements.MainActivity;md52f2435df23ac31def56147a979eaf7be.MainActivity
+fiveelements.MainActivity;md52f2435df23ac31def56147a979eaf7be.MainActivity
